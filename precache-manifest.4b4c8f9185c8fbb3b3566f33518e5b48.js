@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "036cffd5f2027dd221b70d3bff1efa08",
+    "revision": "4e15d192ca4b2b82562203f83d5a90dc",
     "url": "/ROBOPEDIA/index.html"
   },
   {
-    "revision": "59447331c0fc4672414a",
+    "revision": "998d315bce247a38bda4",
     "url": "/ROBOPEDIA/static/css/2.3c03f26f.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ROBOPEDIA/static/css/main.f1d9e865.chunk.css"
   },
   {
-    "revision": "59447331c0fc4672414a",
-    "url": "/ROBOPEDIA/static/js/2.32a4a756.chunk.js"
+    "revision": "998d315bce247a38bda4",
+    "url": "/ROBOPEDIA/static/js/2.92c07549.chunk.js"
   },
   {
     "revision": "8d190e2d02f8e768921a63f56a741895",
-    "url": "/ROBOPEDIA/static/js/2.32a4a756.chunk.js.LICENSE.txt"
+    "url": "/ROBOPEDIA/static/js/2.92c07549.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9bdc7d41b22ed695a508",
